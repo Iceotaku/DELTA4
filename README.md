@@ -49,7 +49,7 @@ Skin Status (Show Some Pass And Missing Object)
 
 Spinner : Pass
 
-Gameplay Overlay : Missing
+Gameplay Overlay : Pass
 
 Fail Sound : Pass
 
