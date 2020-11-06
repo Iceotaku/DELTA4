@@ -64,19 +64,19 @@ Menu
 
 Gameplay (Osu!) DIM 100%
 
-![osu_2020-08-06_14-45-13](https://user-images.githubusercontent.com/68460824/91886261-46d6ba00-ecb3-11ea-8228-a853891bd9b2.jpg)
+![osu_2020-11-06_21-36-08](https://user-images.githubusercontent.com/68460824/98379340-c436f600-2079-11eb-8073-ec22aa849306.jpg)
 
 Gameplay (Osu!) DIM 30%
 
-![osu_2020-08-06_14-47-05](https://user-images.githubusercontent.com/68460824/91886449-8bfaec00-ecb3-11ea-9a20-af29ffb79777.jpg)
+![osu_2020-11-06_21-39-43](https://user-images.githubusercontent.com/68460824/98379416-dadd4d00-2079-11eb-8c49-0fb7c59d6b6b.jpg)
 
 Gameplay (Osu!) Spinner
 
-![osu_2020-09-02_00-57-17](https://user-images.githubusercontent.com/68460824/91889045-5fe16a00-ecb7-11ea-804e-fb4782d1a926.jpg)
+![osu_2020-11-06_21-41-37](https://user-images.githubusercontent.com/68460824/98379494-f0eb0d80-2079-11eb-8d88-595e916dfda5.jpg)
 
 Gameplay (Taiko)
 
-![osu_2020-08-06_14-50-07](https://user-images.githubusercontent.com/68460824/91886513-a208ac80-ecb3-11ea-9b0f-179331462299.jpg)
+![osu_2020-11-06_21-45-47](https://user-images.githubusercontent.com/68460824/98379557-05c7a100-207a-11eb-95ef-d47c04a58482.jpg)
 ![jJWrWNB3sS](https://user-images.githubusercontent.com/68460824/91888343-56a3cd80-ecb6-11ea-87e5-b4686e2ed2b8.gif)
 
 -----------------------------------------------------------------------------------------------------------------
