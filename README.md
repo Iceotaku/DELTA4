@@ -10,7 +10,7 @@ Note: This Skin Is Still Alpha Version (Still Playable) But This skin has use in
 Osu!Stable Not Support
 
 Video Preview
-> COMING SOON
+> https://www.youtube.com/watch?v=dEQF84R9bJI
 -----------------------------------------------------------------------------------------------------------------
 Main Osu! Profile : https://osu.ppy.sh/users/9424789
 
