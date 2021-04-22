@@ -5,7 +5,9 @@ New Project Skin FOR Osu!lazer
 
 Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
-Note: This Skin Is Still Alpha Version (Still Playable) But This skin has use in Osu!lazer Only 
+Note: This Skin Is Still Alpha Version (Still Playable) But This skin has use in Osu!lazer Only
+
+Attention : 5.0 Update Has Become Friday in the Next Week
 
 Osu!Stable Not Support
 
