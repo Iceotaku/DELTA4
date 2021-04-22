@@ -1,3 +1,4 @@
+# Attention : Beta Update Has Become Friday in the Next Week
 # DELTA4
 ![TITLE](https://user-images.githubusercontent.com/68460824/91889887-c87d1680-ecb8-11ea-9303-c1d66f8af2a5.png)
 
@@ -6,8 +7,6 @@ New Project Skin FOR Osu!lazer
 Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
 Note: This Skin Is Still Alpha Version (Still Playable) But This skin has use in Osu!lazer Only
-
-Attention : 5.0 Update Has Become Friday in the Next Week
 
 Osu!Stable Not Support
 
