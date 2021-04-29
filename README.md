@@ -28,6 +28,10 @@ Discord Official Server : https://discord.gg/Fvkdrwz
 
 Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
+Official Website : https://www.iceotaku.com/
+
+Telegram : https://t.me/Iceotaku
+
 -----------------------------------------------------------------------------------------------------------------
 
 # Support Project
