@@ -1,18 +1,27 @@
-# Attention : Beta Update Has Become Friday in the Next Week
 # DELTA4
-![TITLE](https://user-images.githubusercontent.com/68460824/91889887-c87d1680-ecb8-11ea-9303-c1d66f8af2a5.png)
+![delta4 Image](https://user-images.githubusercontent.com/68460824/116596142-454ab800-a94e-11eb-9940-4a6b75bb30e2.jpg)
 
-New Project Skin FOR Osu!lazer
+New Project Skin For Osu!lazer
 
 Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
-Note: This Skin Is Still Alpha Version (Still Playable) But This skin has use in Osu!lazer Only
-
-Osu!Stable Not Support
-
-Video Preview
-> https://www.youtube.com/watch?v=dEQF84R9bJI
 -----------------------------------------------------------------------------------------------------------------
+
+# Skin Status
+
+Beta Version ( Still Playable but This skin Has Play with Osu!lazer Only Osu!Stable Not Support )
+
+-----------------------------------------------------------------------------------------------------------------
+
+# Video Preview
+> Alpha Version : https://www.youtube.com/watch?v=dEQF84R9bJI
+
+> Beta Version : Coming Soon
+
+> Full Version : Coming Soon
+
+-----------------------------------------------------------------------------------------------------------------
+
 Main Osu! Profile : https://osu.ppy.sh/users/9424789
 
 Discord Official Server : https://discord.gg/Fvkdrwz
@@ -21,63 +30,51 @@ Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
 -----------------------------------------------------------------------------------------------------------------
 
-Support Project
+# Support Project
 
 KO-FI : https://ko-fi.com/iceotaku
 
 -----------------------------------------------------------------------------------------------------------------
-Support Gamemode
 
-STD :OK
+# Support Gamemode
 
-Taiko : OK
+> STD : OK
 
-Mania : Not Support
+> Taiko : OK
 
-Catch: Not support
+> Mania : Not Support
 
-Custom Gamemode : OK
+> Catch: Not support
+
+> Custom Gamemode : OK
 
 -----------------------------------------------------------------------------------------------------------------
-Last Project
+# Last Project
 
 DELTA3 (SkyX) : https://osu.ppy.sh/community/forums/topics/651167
 
 Create Project At
 > 3 Year Ago
------------------------------------------------------------------------------------------------------------------
-Skin Status (Show Some Pass And Missing Object)
-
-Spinner : Pass
-
-Gameplay Overlay : Pass
-
-Fail Sound : Pass
-
-Sound : Pass 
 
 -----------------------------------------------------------------------------------------------------------------
-Preview
+
+# Preview
 
 Menu
 
-![osu_2020-08-06_14-40-31](https://user-images.githubusercontent.com/68460824/91886126-15f68500-ecb3-11ea-930d-ea963c93a107.jpg)
+( I Can't Show Because Missing Osu!supporter but i upload Screenshot Later after i get Osu!supporter )
 
-Gameplay (Osu!) DIM 100%
+Gameplay (Osu!)
 
-![osu_2020-11-06_21-36-08](https://user-images.githubusercontent.com/68460824/98379340-c436f600-2079-11eb-8073-ec22aa849306.jpg)
-
-Gameplay (Osu!) DIM 30%
-
-![osu_2020-11-06_21-39-43](https://user-images.githubusercontent.com/68460824/98379416-dadd4d00-2079-11eb-8c49-0fb7c59d6b6b.jpg)
+![osu_2021-04-26_18-10-20](https://user-images.githubusercontent.com/68460824/116597562-f3a32d00-a94f-11eb-8e73-b62fec777f23.jpg)
 
 Gameplay (Osu!) Spinner
 
-![osu_2020-11-06_21-41-37](https://user-images.githubusercontent.com/68460824/98379494-f0eb0d80-2079-11eb-8d88-595e916dfda5.jpg)
+![osu_2021-04-26_18-11-37](https://user-images.githubusercontent.com/68460824/116598285-d458cf80-a950-11eb-8509-6f69d487804e.jpg)
 
 Gameplay (Taiko)
 
-![osu_2020-11-06_21-45-47](https://user-images.githubusercontent.com/68460824/98379557-05c7a100-207a-11eb-95ef-d47c04a58482.jpg)
-![jJWrWNB3sS](https://user-images.githubusercontent.com/68460824/91888343-56a3cd80-ecb6-11ea-87e5-b4686e2ed2b8.gif)
+![osu_2021-04-26_18-14-59](https://user-images.githubusercontent.com/68460824/116598516-1eda4c00-a951-11eb-8413-0e73e02aa369.jpg)
+![dfkB4Hh4Gz](https://user-images.githubusercontent.com/68460824/116599263-0fa7ce00-a952-11eb-8682-886dd190f5d8.gif)
 
 -----------------------------------------------------------------------------------------------------------------
