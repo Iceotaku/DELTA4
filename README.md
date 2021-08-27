@@ -66,7 +66,7 @@ Create Project At
 
 Menu
 
-( I Can't Show Because Missing Osu!supporter but i upload Screenshot Later after i get Osu!supporter )
+![osu_2021-08-27_21-05-37](https://user-images.githubusercontent.com/68460824/131140034-ade71d9e-d039-41d6-b8d1-e8e0df89e471.jpg)
 
 Gameplay (Osu!)
 
