@@ -1,4 +1,6 @@
 # DELTA4
+[![GitHub release](https://img.shields.io/github/release/Iceotaku/DELTA4)](https://github.com/Iceotaku/DELTA4/releases/latest)
+![GitHub Downloaded](https://img.shields.io/github/downloads/Iceotaku/DELTA4/total)
 ![delta4 Image](https://user-images.githubusercontent.com/68460824/116596142-454ab800-a94e-11eb-9940-4a6b75bb30e2.jpg)
 
 New Project Skin For Osu!lazer
