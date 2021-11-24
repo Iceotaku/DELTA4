@@ -25,7 +25,7 @@ Osu! > [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](ht
 # Video Preview
 > Alpha Version : https://www.youtube.com/watch?v=dEQF84R9bJI
 
-> Beta Version : Coming Soon
+> Beta Version : https://www.youtube.com/watch?v=6UNkhZkVsRs
 
 > Full Version : Coming Soon
 
