@@ -15,9 +15,7 @@ Beta Version ( Still Playable but This skin Has Play with Osu!lazer Only Osu!Sta
 -----------------------------------------------------------------------------------------------------------------
 # Download
 
-DELTA 4 > [![GitHub release](https://img.shields.io/github/release/Iceotaku/DELTA4)](https://github.com/Iceotaku/DELTA4/releases/latest)
-
-Osu! > [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](https://github.com/ppy/osu/releases/latest)
+DELTA 4 > [![GitHub release](https://img.shields.io/github/release/Iceotaku/DELTA4)](https://github.com/Iceotaku/DELTA4/releases/latest) Osu! > [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](https://github.com/ppy/osu/releases/latest)
 
 -----------------------------------------------------------------------------------------------------------------
 
