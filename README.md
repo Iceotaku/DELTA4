@@ -49,13 +49,13 @@ KO-FI : https://ko-fi.com/iceotaku
 
 # Support Gamemode
 
-> STD : OK
+> STD : Complete
 
-> Taiko : OK
+> Taiko : Complete
 
-> Mania : Not Support
+> Catch : Work in Progress
 
-> Catch: Not support
+> Mania : Complete
 
 > Custom Gamemode : OK
 
@@ -77,15 +77,26 @@ Menu
 
 Gameplay (Osu!)
 
-![osu_2021-04-26_18-10-20](https://user-images.githubusercontent.com/68460824/116597562-f3a32d00-a94f-11eb-8e73-b62fec777f23.jpg)
+![osu_2021-12-01_17-19-30](https://user-images.githubusercontent.com/68460824/144221195-bab5c36f-c7bd-4493-8825-9d5796303920.jpg)
+![xRcfxMvodG](https://user-images.githubusercontent.com/68460824/144223566-74ca22db-c88e-4ee9-867f-f8d818561557.gif)
 
 Gameplay (Osu!) Spinner
 
-![osu_2021-04-26_18-11-37](https://user-images.githubusercontent.com/68460824/116598285-d458cf80-a950-11eb-8509-6f69d487804e.jpg)
+![osu_2021-12-01_17-21-03](https://user-images.githubusercontent.com/68460824/144221273-ce736563-fdcd-4b45-8ca3-bb5b345677f9.jpg)
+![MRQes7jFXr](https://user-images.githubusercontent.com/68460824/144223695-4c5a6fac-1ca7-4596-819b-557be438f7b5.gif)
 
 Gameplay (Taiko)
 
-![osu_2021-04-26_18-14-59](https://user-images.githubusercontent.com/68460824/116598516-1eda4c00-a951-11eb-8413-0e73e02aa369.jpg)
-![dfkB4Hh4Gz](https://user-images.githubusercontent.com/68460824/116599263-0fa7ce00-a952-11eb-8682-886dd190f5d8.gif)
+![osu_2021-12-01_17-23-45](https://user-images.githubusercontent.com/68460824/144221374-aa5ded53-b61b-40d8-ace7-9dd2d740d962.jpg)
+![AEh3oEGquK](https://user-images.githubusercontent.com/68460824/144224031-3ea78ee1-a9e6-4649-959a-d15e0a18fbee.gif)
+
+Gameplay (Catch)
+![osu_2021-12-01_18-11-45](https://user-images.githubusercontent.com/68460824/144224607-0b111ae7-4d9c-4f44-a8dd-d0644d720633.jpg)
+![Wpxcq5XqWJ](https://user-images.githubusercontent.com/68460824/144224620-f0efdf1c-4993-4d8b-a838-a233e4b35cb0.gif)
+
+Gameplay (Mania)
+
+![osu_2021-12-01_17-47-05](https://user-images.githubusercontent.com/68460824/144224942-a562de91-7b14-4230-8da4-7a7229f667ab.jpg)
+![aPz2SWO2nV](https://user-images.githubusercontent.com/68460824/144224963-3d5ef008-95e4-4677-b967-20bdc419f373.gif)
 
 -----------------------------------------------------------------------------------------------------------------
