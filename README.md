@@ -76,28 +76,34 @@ Menu
 
 ![osu_2021-08-27_21-05-37](https://user-images.githubusercontent.com/68460824/131140034-ade71d9e-d039-41d6-b8d1-e8e0df89e471.jpg)
 
+
 Gameplay (Osu!)
 
-![osu_2021-12-01_17-19-30](https://user-images.githubusercontent.com/68460824/144221195-bab5c36f-c7bd-4493-8825-9d5796303920.jpg)
-![xRcfxMvodG](https://user-images.githubusercontent.com/68460824/144223566-74ca22db-c88e-4ee9-867f-f8d818561557.gif)
+![osu_2022-05-10_22-28-08](https://user-images.githubusercontent.com/68460824/167686078-7a72c0bd-9749-48e7-bea4-bc3a92df7366.jpg)
+![osu!_TbrquWMDem](https://user-images.githubusercontent.com/68460824/167686112-3a522c00-644a-42df-8b7b-04395c477a7b.gif)
+
 
 Gameplay (Osu!) Spinner
 
-![osu_2021-12-01_17-21-03](https://user-images.githubusercontent.com/68460824/144221273-ce736563-fdcd-4b45-8ca3-bb5b345677f9.jpg)
-![MRQes7jFXr](https://user-images.githubusercontent.com/68460824/144223695-4c5a6fac-1ca7-4596-819b-557be438f7b5.gif)
+![osu!_EStFhnYc7J](https://user-images.githubusercontent.com/68460824/167686390-4050962c-ff32-4e18-862a-5a1ad429a203.png)
+![osu!_YEH79awj79](https://user-images.githubusercontent.com/68460824/167686432-2199eeb1-5a9d-4316-a381-38a21c826c31.gif)
+
 
 Gameplay (Taiko)
 
-![osu_2021-12-01_17-23-45](https://user-images.githubusercontent.com/68460824/144221374-aa5ded53-b61b-40d8-ace7-9dd2d740d962.jpg)
-![AEh3oEGquK](https://user-images.githubusercontent.com/68460824/144224031-3ea78ee1-a9e6-4649-959a-d15e0a18fbee.gif)
+![osu_2022-05-10_22-28-46](https://user-images.githubusercontent.com/68460824/167686729-c0da69b3-f8c9-4a93-9e4f-21b80ca2536a.jpg)
+![osu!_CkvQjDlPZA](https://user-images.githubusercontent.com/68460824/167686762-5b5a97dc-8d7f-4dc9-b5e4-bb9196e130b5.gif)
+
 
 Gameplay (Catch)
-![osu_2021-12-01_18-11-45](https://user-images.githubusercontent.com/68460824/144224607-0b111ae7-4d9c-4f44-a8dd-d0644d720633.jpg)
-![Wpxcq5XqWJ](https://user-images.githubusercontent.com/68460824/144224620-f0efdf1c-4993-4d8b-a838-a233e4b35cb0.gif)
+
+![osu_2022-05-10_22-31-13](https://user-images.githubusercontent.com/68460824/167686877-2be351db-b55e-4c97-8d23-8433c8e8aafb.jpg)
+![osu!_uDz3olzFg4](https://user-images.githubusercontent.com/68460824/167686918-1b325cd3-d635-40a4-928d-0e6f03266dce.gif)
+
 
 Gameplay (Mania)
 
-![osu_2021-12-01_17-47-05](https://user-images.githubusercontent.com/68460824/144224942-a562de91-7b14-4230-8da4-7a7229f667ab.jpg)
-![aPz2SWO2nV](https://user-images.githubusercontent.com/68460824/144224963-3d5ef008-95e4-4677-b967-20bdc419f373.gif)
+![osu!_O2nYJMITEf](https://user-images.githubusercontent.com/68460824/167687145-137a44c1-9017-4907-9557-817fbf2fc558.png)
+![osu!_NJ4S5W8oQY](https://user-images.githubusercontent.com/68460824/167687184-4b525c5f-65bc-42d8-a28a-c1ec259fad8c.gif)
 
 -----------------------------------------------------------------------------------------------------------------
