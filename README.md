@@ -77,7 +77,7 @@ Menu
 
 Song Select
 
-![osu_2022-05-15_17-03-35](https://user-images.githubusercontent.com/68460824/168467899-182b075a-6f0f-400d-b58f-7674d10e3d9e.jpg)
+![osu_2022-06-03_03-42-43](https://user-images.githubusercontent.com/68460824/171736785-e7c4a2cc-a51c-49f5-9056-4eac466423ad.jpg)
 
 
 Gameplay (Osu!)
