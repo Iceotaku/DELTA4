@@ -77,26 +77,31 @@ Menu
 
 Song Select
 
-![osu_2022-07-04_23-02-50](https://user-images.githubusercontent.com/68460824/177189356-5c658b65-539b-41c5-ab6c-eb0114c04924.jpg)
-
+![osu_2022-07-27_20-26-47](https://user-images.githubusercontent.com/68460824/181260463-2c6fe09c-588a-46d5-b707-7ee81d9ba943.jpg)
 
 Gameplay (Osu!)
-![std](https://user-images.githubusercontent.com/68460824/179704206-11dc87c5-3876-4fda-bf92-d6c4ede77d97.jpeg)
+
+![osu_2022-07-27_20-32-21](https://user-images.githubusercontent.com/68460824/181260703-e2e13778-284b-4134-aa90-9814657f5388.jpg)
+![osu!_OGRKPbW6PQ](https://user-images.githubusercontent.com/68460824/181260962-0fccd840-074e-4a87-bf52-eabc29a4fcbf.gif)
 
 Gameplay (Osu!) Spinner
 
-![osu!_EStFhnYc7J](https://user-images.githubusercontent.com/68460824/167686390-4050962c-ff32-4e18-862a-5a1ad429a203.png)
+![osu_2022-07-27_20-20-13](https://user-images.githubusercontent.com/68460824/181261157-48db18ac-bec8-427c-9d52-cb5a4c6476ab.jpg)
+![osu!_SFmtdE78wg](https://user-images.githubusercontent.com/68460824/181261311-a1a75e49-b55c-48b0-958f-66b0c086f2de.gif)
 
 Gameplay (Taiko)
 
-![taiko](https://user-images.githubusercontent.com/68460824/179704333-5825a85f-0597-4f23-b692-cd7bb0a36e66.jpeg)
+![osu_2022-07-27_20-22-38](https://user-images.githubusercontent.com/68460824/181261426-e9628503-56f1-4e62-8f64-61d194c78e61.jpg)
+![osu!_JGi6xIGGr9](https://user-images.githubusercontent.com/68460824/181261500-0b66daa7-d1f5-497b-b97b-cecec170f2c8.gif)
 
 Gameplay (Catch)
 
-![catch](https://user-images.githubusercontent.com/68460824/179704417-5a5b522c-1406-4d8b-a9b3-d3509719728f.jpeg)
+![osu_2022-07-27_20-24-08](https://user-images.githubusercontent.com/68460824/181261687-e1eada44-a785-4f7d-ba21-c47b229f6a26.jpg)
+![osu!_4q7BRiDk2i](https://user-images.githubusercontent.com/68460824/181261987-39dabe66-1085-48e2-a6eb-a670cbd6dcc3.gif)
 
 Gameplay (Mania)
 
-![mania](https://user-images.githubusercontent.com/68460824/179704574-35287799-bf65-4b2f-980f-298ff8f165d1.jpeg)
+![osu_2022-07-27_20-26-29](https://user-images.githubusercontent.com/68460824/181262264-51585299-16f8-499d-8a75-42f8104d3fcd.jpg)
+![osu!_3tw246RIBW](https://user-images.githubusercontent.com/68460824/181262307-9368f8f1-7f34-4e0c-9947-2d9c04fc973a.gif)
 
 -----------------------------------------------------------------------------------------------------------------
