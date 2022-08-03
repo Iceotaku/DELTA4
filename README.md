@@ -8,7 +8,8 @@ Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![Skin Status](https://user-images.githubusercontent.com/68460824/139641143-1825827a-3d7c-48c0-b8dc-760dcad9c71c.png)
+![Skin status](https://user-images.githubusercontent.com/68460824/182530296-83ba530a-9fd4-4eed-a7c8-866a2c2aa634.png)
+
 
 Beta Version ( Still Playable but This skin Has Play with Osu!lazer Only Osu!Stable Not Support )
 
