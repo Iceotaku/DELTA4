@@ -1,5 +1,6 @@
 # DELTA4
-![delta4 Image](https://user-images.githubusercontent.com/68460824/116596142-454ab800-a94e-11eb-9940-4a6b75bb30e2.jpg)
+![skin image introduce](https://user-images.githubusercontent.com/68460824/184899832-c1de5be4-dc24-4b3a-a92c-134cf6f0a552.png)
+
 
 New Project Skin For Osu!lazer
 
