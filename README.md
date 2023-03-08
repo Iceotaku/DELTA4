@@ -1,32 +1,35 @@
-# DELTA4
-![skin image introduce](https://user-images.githubusercontent.com/68460824/184899832-c1de5be4-dc24-4b3a-a92c-134cf6f0a552.png)
+# DELTA3
+![Group 279](https://user-images.githubusercontent.com/68460824/223616937-e02b5d70-0a6a-4109-b480-c02917777bae.png)
 
 
-New Project Skin For Osu!lazer
 
-Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
+Second Osu!lazer Skin Project For Osu!lazer
+
+Note : This skin Using Argon Pro But I Add My Element to make this skin
+
+Osu!Forums: https://osu.ppy.sh/community/forums/topics/1729170?n=1
 
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![Skin status](https://user-images.githubusercontent.com/68460824/182530296-83ba530a-9fd4-4eed-a7c8-866a2c2aa634.png)
+![Under Deverlop](https://user-images.githubusercontent.com/68460824/223616107-8f076b28-0422-412e-97bb-1cd5816a83d8.png)
 
 
-Beta Version ( Still Playable but This skin Has Play with Osu!lazer Only Osu!Stable Not Support )
+
+Under Development (Skin is not ready to use due skin has under development)
 
 -----------------------------------------------------------------------------------------------------------------
 # Download
 
-DELTA 4 [![GitHub release](https://img.shields.io/github/release/Iceotaku/DELTA4)](https://github.com/Iceotaku/DELTA4/releases/latest) 
 Osu!lazer [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](https://github.com/ppy/osu/releases/latest)
 
 -----------------------------------------------------------------------------------------------------------------
 
 
 # Video Preview
-> Alpha Version : https://www.youtube.com/watch?v=dEQF84R9bJI
+> Alpha Version : Coming soon
 
-> Beta Version : https://www.youtube.com/watch?v=6UNkhZkVsRs
+> Beta Version : Coming soon
 
 > Full Version : Coming Soon
 
@@ -50,15 +53,15 @@ KO-FI : https://ko-fi.com/iceotaku
 
 # Support Gamemode
 
-> STD : Complete
+> STD : Supported
 
-> Taiko : Complete
+> Taiko : Supported
 
-> Catch : Work in Progress
+> Catch : Supported
 
-> Mania : Complete
+> Mania : Supported
 
-> Custom Gamemode : OK
+> Custom Gamemode : Supported
 
 -----------------------------------------------------------------------------------------------------------------
 # Last Project
@@ -70,36 +73,44 @@ Create Project At
 
 -----------------------------------------------------------------------------------------------------------------
 
+Note : This skin Is a Reboot from 5Year ago skin in osu!Stable but i recreated to use with Osu!lazer only
+
 # Preview
 
 Menu
 
-![osu_2021-08-27_21-05-37](https://user-images.githubusercontent.com/68460824/131140034-ade71d9e-d039-41d6-b8d1-e8e0df89e471.jpg)
+Coming Soon
 
 
 Song Select
 
-![Songselect](https://user-images.githubusercontent.com/68460824/183073841-d8fc68fe-7326-4571-aff4-f7bfece4d296.png)
+![osu_2023-03-08_11-13-41](https://user-images.githubusercontent.com/68460824/223618725-b6b3be83-03e1-4d12-b19a-c2a10118ffc7.jpg)
+
 
 Gameplay (Osu!)
 
-![Gamemode (STD)](https://user-images.githubusercontent.com/68460824/183073866-c17ec3c4-fd47-4b5e-8c6b-83873930174b.png)
-![osu!_ZnUwBhNVMR](https://user-images.githubusercontent.com/68460824/183073487-40cab1c7-aeba-4ce5-b55c-293aa5332083.gif)
-![osu!_UjCXTioKE0](https://user-images.githubusercontent.com/68460824/183073544-944081a6-efe1-47eb-afb5-45883200640b.gif)
+![osu_2023-03-08_11-14-12](https://user-images.githubusercontent.com/68460824/223618757-bd546741-65d4-4624-9c42-136e885f5302.jpg)
+
 
 Gameplay (Taiko)
 
-![Gamemode (TAIKO)](https://user-images.githubusercontent.com/68460824/183073917-f42fdb7d-4758-46b7-86f2-95136f8f13f0.png)
-![osu!_LFefVLxqiS](https://user-images.githubusercontent.com/68460824/183073600-e2efa2cf-6902-43bb-99a4-5a41b74a7633.gif)
+![osu_2023-03-08_11-14-33](https://user-images.githubusercontent.com/68460824/223618786-c22e16fe-074b-4f20-9568-2a996b6453bd.jpg)
+
 
 Gameplay (Catch)
 
-![Gamemode (CATCH)](https://user-images.githubusercontent.com/68460824/183073945-d3a38883-164f-4dec-b7b6-b3c49fe034bb.png)
-![osu!_hjf1mrdmdG](https://user-images.githubusercontent.com/68460824/183073656-9ab8bea3-4fca-49e0-85e1-1fe6d6157e2d.gif)
+![osu_2023-03-08_11-15-11](https://user-images.githubusercontent.com/68460824/223618815-03b4871c-e628-4fa6-8414-1ad12dc727c3.jpg)
+
 
 Gameplay (Mania)
 
-![Gamemode (MANIA)](https://user-images.githubusercontent.com/68460824/183073966-785b04e3-a675-46c5-9003-a1b3f8fedb15.png)
-![osu!_XoFkUnrLEC](https://user-images.githubusercontent.com/68460824/183073732-b16ab3eb-5f0d-46a2-9566-7aca44645125.gif)
+![osu_2023-03-08_11-16-15](https://user-images.githubusercontent.com/68460824/223618836-83ce19a5-894a-4d8a-8490-382549bec5fb.jpg)
+
+
+Gameplay (Custom Ruleset)
+
+![osu_2023-03-08_11-16-53](https://user-images.githubusercontent.com/68460824/223619032-ecaa11db-bb5c-4776-b27e-1f49bfb0b298.jpg)
+![osu_2023-03-08_11-19-11](https://user-images.githubusercontent.com/68460824/223619051-aeb0a4bc-3e12-48b6-b556-c35e23cac6b2.jpg)
+![osu_2023-03-08_11-19-48](https://user-images.githubusercontent.com/68460824/223619063-3423438f-163a-4800-b638-7fba49c10d80.jpg)
 
 -----------------------------------------------------------------------------------------------------------------
