@@ -1,5 +1,6 @@
 # DELTA3
-![Group 279](https://user-images.githubusercontent.com/68460824/223616937-e02b5d70-0a6a-4109-b480-c02917777bae.png)
+![Thubnail](https://user-images.githubusercontent.com/68460824/230729963-51a31b63-f9e7-4502-8601-75227cd1abad.jpg)
+
 
 
 
