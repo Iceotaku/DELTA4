@@ -80,22 +80,22 @@ Main Menu ( Song Select )
 
 
 
-Gameplay (Osu!)
+Gameplay ( Osu! )
 
 ![Group 286](https://github.com/Iceotaku/DELTA4/assets/68460824/6cb8b15d-5a81-476a-b946-d056d85d945b)
 
 
-Gameplay (Taiko)
+Gameplay ( Taiko )
 
 ![new gamemode taiko](https://github.com/Iceotaku/DELTA4/assets/68460824/a2b725be-a375-474a-829d-fb5971c2143d)
 
 
-Gameplay (Catch)
+Gameplay ( Catch )
 
 ![new gamemode catch](https://github.com/Iceotaku/DELTA4/assets/68460824/045f40c5-4837-4e2e-ad24-bc7661e7cb0e)
 
 
-Gameplay (Mania)
+Gameplay ( Mania )
 
 ![NEW GAMEMODE MANIA](https://github.com/Iceotaku/DELTA4/assets/68460824/c9dc958a-130e-4f97-98d0-f3e5f3493700)
 
