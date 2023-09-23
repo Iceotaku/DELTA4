@@ -60,7 +60,7 @@ KO-FI : https://ko-fi.com/iceotaku
 
 > Mania : Complete
 
-> Custom Gamemode : complete
+> Custom Gamemode : Discontinue 
 
 -----------------------------------------------------------------------------------------------------------------
 # Last Project
