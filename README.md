@@ -44,9 +44,11 @@ Official Website : https://www.iceotaku.com/
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project
+# Support Project (Latest update 25/11/2023)
 
-KO-FI : https://ko-fi.com/iceotaku
+Paypal > https://paypal.me/Iceotaku2023?country.x=TH&locale.x=th_TH
+
+Paotang Pay (For Thailand) > https://shorturl.at/alqJ9
 
 -----------------------------------------------------------------------------------------------------------------
 
