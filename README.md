@@ -1,5 +1,6 @@
 # DELTA3
-![DELTA 3Thubnail (New) (Work in progress)](https://github.com/Iceotaku/DELTA4/assets/68460824/69cd4058-a787-46a8-85fd-0e761d4ebeae)
+![DELTA 3Thubnail (New) (Work in progress)](https://github.com/Iceotaku/DELTA4/assets/68460824/43a24a3c-e9f9-43e7-aea6-de64dcd82a16)
+
 
 
 
@@ -27,11 +28,8 @@ Osu!lazer [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)]
 
 
 # Video Preview
-> Alpha Version : Coming soon
 
-> Beta Version : Coming soon
-
-> Full Version : Coming Soon
+> Full Version : https://youtu.be/SK-5326924U?si=ROKvZJohWpMWsYkG
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -45,9 +43,11 @@ Official Website : https://www.iceotaku.com/
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project
+# Support Project (Latest update 25/11/2023)
 
-KO-FI : https://ko-fi.com/iceotaku
+Paypal > https://paypal.me/Iceotaku2023?country.x=TH&locale.x=th_TH
+
+Paotang Pay (For Thailand) > https://shorturl.at/alqJ9
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ KO-FI : https://ko-fi.com/iceotaku
 
 > Mania : Supported
 
-> Custom Gamemode : Supported
+> Custom Gamemode : Discontinue
 
 -----------------------------------------------------------------------------------------------------------------
 # Last Project
@@ -78,29 +78,28 @@ Note : This skin Is a Reboot from 5Year ago skin in osu!Stable but i recreated t
 # Preview
 
 Main menu ( Song Select )
-
-![new Main menu](https://github.com/Iceotaku/DELTA4/assets/68460824/c8aa7871-22a4-4dae-b310-705a98df42f4)
+![new Main menu](https://github.com/Iceotaku/DELTA4/assets/68460824/cefedb5e-ee7f-49d2-bb8e-0b6fd4a54c34)
 
 
 Gameplay ( Osu! )
 
-![Group 288](https://github.com/Iceotaku/DELTA4/assets/68460824/f1d334f0-0ed8-4a6d-9d6f-b54fb90755f1)
-
+![Group 288](https://github.com/Iceotaku/DELTA4/assets/68460824/2c8a915e-aa0a-4522-9506-d832137b8acb)
 
 
 Gameplay ( Taiko )
 
-![new gamemode taiko](https://github.com/Iceotaku/DELTA4/assets/68460824/a17f5ece-5e0b-4cc7-944c-a4d6e536a2ef)
+![new gamemode taiko](https://github.com/Iceotaku/DELTA4/assets/68460824/67154ab9-61f8-4ba3-ae8b-ff02e2d7aa4f)
+
 
 
 Gameplay ( Catch )
 
-![new gamemode catch](https://github.com/Iceotaku/DELTA4/assets/68460824/e0b91c56-8c70-497d-9b8e-27ac72f10342)
+![new gamemode catch](https://github.com/Iceotaku/DELTA4/assets/68460824/00b937b6-0e56-4f20-b378-9b98ec98add4)
 
 
 Gameplay ( Mania )
 
-![NEW GAMEMODE MANIA](https://github.com/Iceotaku/DELTA4/assets/68460824/f87e3bd5-9d49-4eb7-a613-0ce39605c06c)
+![NEW GAMEMODE MANIA](https://github.com/Iceotaku/DELTA4/assets/68460824/9dfa92ff-fb9a-45f5-a5b5-4bf85629820d)
 
 
 -----------------------------------------------------------------------------------------------------------------
