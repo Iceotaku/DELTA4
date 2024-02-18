@@ -73,24 +73,22 @@ Create Project At
 
 Main Menu ( Song Select )
 
-![new Main menu](https://github.com/Iceotaku/DELTA4/assets/68460824/3bb98c2f-1aa8-4098-a72e-cb7560fd50b8)
-
+![new Main menu](https://github.com/Iceotaku/DELTA4/assets/68460824/99514f89-2517-4ffb-b660-b42cda7b7523)
 
 Gameplay ( Osu! )
 
-![Group 286](https://github.com/Iceotaku/DELTA4/assets/68460824/8d4407b2-9ec0-4d6a-9135-c6c34da5839f)
+![Group 286](https://github.com/Iceotaku/DELTA4/assets/68460824/926f7bd8-5f64-4501-9beb-b10c3de279f0)
 
 Gameplay ( Taiko )
 
-![new gamemode taiko](https://github.com/Iceotaku/DELTA4/assets/68460824/a5af697e-dbcf-4474-8841-c880a54fd6fc)
+![new gamemode taiko](https://github.com/Iceotaku/DELTA4/assets/68460824/e3d1b98b-94af-4a3e-9f51-afd01cb71f9f)
 
 Gameplay ( Catch )
 
-![new gamemode catch](https://github.com/Iceotaku/DELTA4/assets/68460824/0bcf91ec-da27-41c1-8887-43524b2748e8)
+![new gamemode catch](https://github.com/Iceotaku/DELTA4/assets/68460824/d1d2646b-efdd-4366-80ab-0935f192c69d)
 
 Gameplay ( Mania )
 
-![NEW GAMEMODE MANIA](https://github.com/Iceotaku/DELTA4/assets/68460824/a30544db-2cf0-4c4e-849e-68e1c336eacb)
-
+![NEW GAMEMODE MANIA](https://github.com/Iceotaku/DELTA4/assets/68460824/87428525-31b1-459f-8d0f-604e97e20c41)
 
 -----------------------------------------------------------------------------------------------------------------
