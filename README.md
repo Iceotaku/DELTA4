@@ -7,6 +7,11 @@ Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
 -----------------------------------------------------------------------------------------------------------------
 
+### Beta Access it's available Grain access with Click this link 
+https://github.com/Iceotaku/DELTA4/releases/tag/ba2024.2.9
+
+-----------------------------------------------------------------------------------------------------------------
+
 # Skin Status
 ![skinStatus](https://github.com/Iceotaku/DELTA4/assets/68460824/c3c07a49-7357-4c96-81c5-0e713f82b3f3)
 
