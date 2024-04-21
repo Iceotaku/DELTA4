@@ -1,5 +1,5 @@
 # DELTA4
-![DELTA Github thumbnail](https://github.com/Iceotaku/DELTA4/assets/68460824/7bcfb2b5-01b6-498a-bdab-350b8c07a1f6)
+![DELTA Github thumbnail](https://github.com/Iceotaku/DELTA4/assets/68460824/dc080f23-f61d-424e-bb71-95f38692e436)
 
 New Project Skin For Osu!lazer
 
