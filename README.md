@@ -44,11 +44,9 @@ Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project (Latest update 25/11/2023)
+# Support Project (Latest update 10/5/2024)
 
-Paypal > https://paypal.me/Iceotaku2023?country.x=TH&locale.x=th_TH
-
-Paotang Pay (For Thailand) > https://shorturl.at/alqJ9
+Streamlabs : https://streamlabs.com/ice_otaku/tip
 
 -----------------------------------------------------------------------------------------------------------------
 
