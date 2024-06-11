@@ -13,9 +13,7 @@ Osu!Forums: https://osu.ppy.sh/community/forums/topics/1729170?n=1
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![New skin status](https://github.com/Iceotaku/DELTA4/assets/68460824/930f5d31-ebaa-4bed-a20e-c8772ecdfc88)
-
-
+![skinStatus D3RE](https://github.com/Iceotaku/DELTA4/assets/68460824/139421b5-5d5e-46de-9043-efa817531954)
 
 Ready to play 
 
@@ -43,11 +41,10 @@ Official Website : https://www.iceotaku.com/
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project (Latest update 25/11/2023)
+# Support Project (Latest update 10/5/2024)
 
-Paypal > https://paypal.me/Iceotaku2023?country.x=TH&locale.x=th_TH
+Streamlabs : https://streamlabs.com/ice_otaku/tip
 
-Paotang Pay (For Thailand) > https://shorturl.at/alqJ9
 
 -----------------------------------------------------------------------------------------------------------------
 
