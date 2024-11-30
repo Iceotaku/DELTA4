@@ -47,7 +47,8 @@ Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
 # Support Project (Latest update 10/5/2024)
 
-Streamlabs : https://streamlabs.com/ice_otaku/tip
+Buymeacoffee : https://buymeacoffee.com/iceotaku
+Paypal : https://paypal.me/Iceotaku2023
 
 -----------------------------------------------------------------------------------------------------------------
 
