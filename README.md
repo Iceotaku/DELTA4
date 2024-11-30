@@ -1,5 +1,5 @@
 # DELTA4
-![DELTA Github thumbnail](https://github.com/Iceotaku/DELTA4/assets/68460824/dc080f23-f61d-424e-bb71-95f38692e436)
+![DELTA Github thumbnail](https://github.com/user-attachments/assets/2ea761c7-58aa-4eff-b9ee-b745650fe7e2)
 
 New Project Skin For Osu!lazer
 
@@ -13,7 +13,7 @@ https://github.com/Iceotaku/DELTA4/releases/tag/ba2024.2.9
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![skinStatus](https://github.com/Iceotaku/DELTA4/assets/68460824/929cc6e0-a84a-42bc-87b8-0fdcf39143bb)
+![skinStatus](https://github.com/user-attachments/assets/d32a9a24-86d7-4b71-9546-bb2aeb7ec895)
 
 
 DELTA 4 1.0 Beta Version (Playable but it's beta state)
@@ -61,7 +61,7 @@ Streamlabs : https://streamlabs.com/ice_otaku/tip
 
 > Mania : Complete
 
-> Custom Gamemode : Discontinue 
+> Custom Gamemode : Continue with extension
 
 -----------------------------------------------------------------------------------------------------------------
 # Last Project
@@ -77,22 +77,22 @@ Create Project At
 
 Main Menu ( Song Select )
 
-![new Main menu](https://github.com/Iceotaku/DELTA4/assets/68460824/b2b026bd-f807-4e6d-a212-dc71993304da)
+![new Main menu](https://github.com/user-attachments/assets/899e2ede-0ece-4726-8d08-304989473e98)
 
 Gameplay ( Osu! )
 
-![STD](https://github.com/Iceotaku/DELTA4/assets/68460824/06f1765f-1eed-4bcd-9a74-72caba2e8c3b)
+![STD](https://github.com/user-attachments/assets/868b6a55-b804-4f06-954f-fbe51f96d61b)
 
 Gameplay ( Taiko )
 
-![TAIKO](https://github.com/Iceotaku/DELTA4/assets/68460824/73c5d4ee-de79-4e4e-9de6-0824b0d3650d)
+![TAIKO](https://github.com/user-attachments/assets/3c90bdbb-e9c8-4222-bf04-7c1205299118)
 
 Gameplay ( Ctb )
 
-![CTB](https://github.com/Iceotaku/DELTA4/assets/68460824/58902a3e-2ce2-4fc2-93e2-af45d6976f57)
+![CTB](https://github.com/user-attachments/assets/b2b87785-2f7f-4163-949c-47d716d2bc9e)
 
 Gameplay ( Mania )
 
-![Mania](https://github.com/Iceotaku/DELTA4/assets/68460824/de77ac80-97ea-4120-a726-6c889e91adfa)
+![Mania](https://github.com/user-attachments/assets/94efc0e0-3533-4a3a-8d51-61dc771145b2)
 
 -----------------------------------------------------------------------------------------------------------------
