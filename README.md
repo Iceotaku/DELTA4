@@ -13,8 +13,7 @@ https://github.com/Iceotaku/DELTA4/releases/tag/ba2024.2.9
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![skinStatus](https://github.com/user-attachments/assets/d32a9a24-86d7-4b71-9546-bb2aeb7ec895)
-
+![skinStatus](https://github.com/user-attachments/assets/5270bf7e-df18-4e3f-866b-201f3ad7edb6)
 
 DELTA 4 1.0 Beta Version (Playable but it's beta state)
 
