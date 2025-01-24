@@ -1,5 +1,5 @@
 # DELTA4
-![Group 406](https://github.com/user-attachments/assets/d71ff254-6ed4-4a99-88d0-819fbc812fcf)
+![Group 406](https://github.com/user-attachments/assets/852446d0-c954-4cc0-a666-76ed2205c18f)
 
 
 New Project Skin For Osu!lazer
@@ -14,7 +14,7 @@ https://github.com/Iceotaku/DELTA4/releases/tag/ba2024.2.9
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![skinStatus](https://github.com/user-attachments/assets/5270bf7e-df18-4e3f-866b-201f3ad7edb6)
+![skinStatus](https://github.com/user-attachments/assets/7db803d1-ac3f-4422-a41a-c29689adc035)
 
 DELTA 4 1.0 Beta Version (Playable but it's beta state)
 
