@@ -1,5 +1,6 @@
 # DELTA4
-![DELTA Github thumbnail](https://github.com/user-attachments/assets/2ea761c7-58aa-4eff-b9ee-b745650fe7e2)
+![Group 406](https://github.com/user-attachments/assets/d71ff254-6ed4-4a99-88d0-819fbc812fcf)
+
 
 New Project Skin For Osu!lazer
 
