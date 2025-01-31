@@ -83,18 +83,21 @@ Main Menu ( Song Select )
 
 Gameplay ( Osu! )
 
-![STD](https://github.com/user-attachments/assets/868b6a55-b804-4f06-954f-fbe51f96d61b)
+![STD](https://github.com/user-attachments/assets/f0a89b46-6f66-4ba0-a22f-d6bc7814091c)
+
 
 Gameplay ( Taiko )
 
-![TAIKO](https://github.com/user-attachments/assets/3c90bdbb-e9c8-4222-bf04-7c1205299118)
+![TAIKO](https://github.com/user-attachments/assets/8033bd79-44eb-4de1-b7b8-d26b3d639429)
+
 
 Gameplay ( Ctb )
 
-![CTB](https://github.com/user-attachments/assets/b2b87785-2f7f-4163-949c-47d716d2bc9e)
+![CTB](https://github.com/user-attachments/assets/f5718cf6-c7e8-43a3-9d75-35a1b2b3b7af)
 
 Gameplay ( Mania )
 
-![Mania](https://github.com/user-attachments/assets/94efc0e0-3533-4a3a-8d51-61dc771145b2)
+![Mania](https://github.com/user-attachments/assets/b4f7c75c-b347-4f7f-b0ed-572045259270)
+
 
 -----------------------------------------------------------------------------------------------------------------
