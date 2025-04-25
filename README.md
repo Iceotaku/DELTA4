@@ -1,4 +1,4 @@
-# DELTA4
+# Delta 4
 ![thumbnail](https://github.com/user-attachments/assets/72fecd1a-acfd-4207-a866-68c638012f12)
 
 New Osu!lazer skin Project with Simple and minimal concept
