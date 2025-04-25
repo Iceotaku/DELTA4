@@ -1,8 +1,7 @@
 # DELTA4
-![Group 406](https://github.com/user-attachments/assets/852446d0-c954-4cc0-a666-76ed2205c18f)
+![thumbnail](https://github.com/user-attachments/assets/72fecd1a-acfd-4207-a866-68c638012f12)
 
-
-New Project Skin For Osu!lazer
+New Osu!lazer skin Project with Simple and minimal concept
 
 Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
