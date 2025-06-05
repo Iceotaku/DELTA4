@@ -76,27 +76,28 @@ Create Project At
 
 # Preview
 
-Main Menu ( Song Select )
+Main Menu ( Songselect V1 )
 
-![new Main menu](https://github.com/user-attachments/assets/899e2ede-0ece-4726-8d08-304989473e98)
+![new Main menu V1](https://github.com/user-attachments/assets/31b6109a-f311-4f70-924c-321dc8c76933)
 
-Gameplay ( Osu! )
+(New) Main Menu (Songselect V2 )
 
-![STD](https://github.com/user-attachments/assets/f0a89b46-6f66-4ba0-a22f-d6bc7814091c)
+![new Main menu V2](https://github.com/user-attachments/assets/7b4d5504-ca72-4164-92cf-e47f9f1d96fa)
 
+Gameplay ( STD )
 
-Gameplay ( Taiko )
+![STD](https://github.com/user-attachments/assets/2092d879-27a4-49a0-9895-670c65f4e94a)
 
-![TAIKO](https://github.com/user-attachments/assets/8033bd79-44eb-4de1-b7b8-d26b3d639429)
+Gameplay ( Tako )
 
+![Taiko](https://github.com/user-attachments/assets/77405d13-f7ed-4cb5-8f70-a9a83e3ac5b5)
 
 Gameplay ( Ctb )
 
-![CTB](https://github.com/user-attachments/assets/f5718cf6-c7e8-43a3-9d75-35a1b2b3b7af)
+![CTB](https://github.com/user-attachments/assets/5bd1475b-012c-496c-8d32-a10c710d3baf)
 
 Gameplay ( Mania )
 
-![Mania](https://github.com/user-attachments/assets/b4f7c75c-b347-4f7f-b0ed-572045259270)
-
+![Mania](https://github.com/user-attachments/assets/e241be14-14f6-43fe-9c11-0215eb334526)
 
 -----------------------------------------------------------------------------------------------------------------
