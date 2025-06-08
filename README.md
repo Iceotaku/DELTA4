@@ -7,8 +7,8 @@ Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
 -----------------------------------------------------------------------------------------------------------------
 
-### Beta Access it's available Grain access with Click this link 
-https://github.com/Iceotaku/DELTA4/releases/tag/ba2024.2.9
+### Join beta tester program  ( Updated 2025/6/8 )
+https://discord.gg/Bj5N9rZshn
 
 -----------------------------------------------------------------------------------------------------------------
 
