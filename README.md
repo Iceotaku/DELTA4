@@ -13,7 +13,7 @@ https://discord.gg/Bj5N9rZshn
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![skinStatus](https://github.com/user-attachments/assets/7db803d1-ac3f-4422-a41a-c29689adc035)
+![skinStatus](https://github.com/user-attachments/assets/4a1c57c8-558c-49ab-b5d8-40d0cd9c528b)
 
 DELTA 4 1.0 Beta Version (Playable but it's beta state)
 
